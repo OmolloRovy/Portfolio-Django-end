@@ -1,2 +1,1 @@
-# Omollo hoe-mlsa
-A Template for Learning Purposes only
+This an implementation of a portfolio code witha backend deployment of django ( a python framework )
